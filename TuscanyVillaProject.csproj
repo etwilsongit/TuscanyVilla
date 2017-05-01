@@ -75,6 +75,12 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Ammenities.html" />
+    <Content Include="Contact.html" />
+    <Content Include="index.html" />
+    <Content Include="Locations.html" />
+    <Content Include="Reviews.html" />
+    <Content Include="styleSheet.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
