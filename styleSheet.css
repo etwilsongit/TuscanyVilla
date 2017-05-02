@@ -1,6 +1,6 @@
 ﻿body {
     padding-top: 0px;
-    background-color: #FFF6F0;
+    background-color: #1f3559;
 }
 
 /*HEADER STYLES*/
@@ -10,13 +10,14 @@
 
 div.page-header {
     margin-top: 0px;
-    background-color: #E8D6CF;
+    background-color: #1f3559;
     padding-top: 20px;
     margin-bottom: 0px;
+    color:white;
 }
 
 h1.container {
-    background-color: #E8D6CF;
+    background-color: #1f3559;
     margin-top: 0px;
     padding-top: 5px;
 }
@@ -25,8 +26,8 @@ h1.container {
 nav#navvy.navbar.navbar-static-top {
     margin-top: 0px;
     margin-bottom: 0px;
-    color: #FFF6F0;
-    background-color: #6A1525;
+    color: #1f3559;
+    background-color: #1f3559;
 }
 
 #navvy a {
@@ -45,14 +46,4 @@ button.navbar-toggle {
 span.icon-bar {
     border: 1px solid #FFF6F0;
 }
-/*Trailer Section*/
-.mainSec {
-    background-image: url('../images/junkyard.jpg');
-    margin-top: 0px;
-    background-size: cover;
-}
 
-h1.container#trailer {
-    text-align: right;
-    background-color: rgbA(232, 214, 207, 0.0);
-}
