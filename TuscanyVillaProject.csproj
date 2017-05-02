@@ -77,6 +77,15 @@
   <ItemGroup>
     <Content Include="Ammenities.html" />
     <Content Include="Contact.html" />
+    <Content Include="images\314-348x348.jpg" />
+    <Content Include="images\3b-348x348.jpg" />
+    <Content Include="images\42-348x348.jpg" />
+    <Content Include="images\italy-mountain-villa.jpeg" />
+    <Content Include="images\map.jpg" />
+    <Content Include="images\modern-villa.jpeg" />
+    <Content Include="images\tuscany-grape-field-nature-51947.jpeg" />
+    <Content Include="images\tuscany-villas-sant-anna.jpg" />
+    <Content Include="images\Villa-Rucellai-Toscani-2812-2-348x348.jpg" />
     <Content Include="index.html" />
     <Content Include="Locations.html" />
     <Content Include="Reviews.html" />
